@@ -15,6 +15,11 @@ The Brotherhood of Light deck is ideal because it is structured, symbolic, and p
 
 This project is **multi-layered and complex**, demonstrating the ability to design prompts that challenge AI reasoning, integrate philosophical context, and produce narrative-driven outputs. The complexity is a feature, showcasing creativity, precision, and advanced prompt engineering skills — making this a standout portfolio piece.
 
+It is also **interactive and versatile**, allowing users to input their own questions:
+- Each prompt is **question-driven** — AI outputs change depending on the user’s input.  
+- It’s **playable and exploratory** — anyone can try their own questions and see the AI reason through symbols and philosophy.  
+- Demonstrates **dynamic reasoning skills** — AI adapts to context, showing how prompts can generate tailored, meaningful outputs.
+
 ## How to Use
 
 - Explore individual prompts in the `prompts/` folder.
