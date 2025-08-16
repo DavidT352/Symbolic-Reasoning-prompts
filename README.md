@@ -1,6 +1,6 @@
 # Symbolic Reasoning Prompts
 
-**Note:** In short, the “mystical” elements are just tools for complex reasoning and pattern recognition, not the point themselves — which makes this a serious, innovative AI prompt project.
+**Note:** In short, the “mystical” and "symbolic" elements are just tools for complex reasoning and pattern recognition, not the point themselves — which makes this a serious, innovative AI prompt project.
 
 A collection of prompts using symbolic systems, like the Brotherhood of Light Tarot, to test AI's pattern recognition and reasoning. Focus is on analyzing symbols and underlying philosophy to generate meaningful answers to specific questions — not for divination purposes.
 
@@ -36,3 +36,7 @@ It is also **interactive and versatile**, allowing users to input their own ques
 - Analogy and symbolic interpretation
 - Creative yet rigorous AI prompt design
 - Multi-layered reasoning using structured symbolic systems
+
+# Prompt Attribution
+Inspired by the Brotherhood of Light lessons, Church of Light (free online resources). For educational and portfolio use.
+
