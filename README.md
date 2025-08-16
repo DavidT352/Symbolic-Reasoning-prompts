@@ -13,6 +13,8 @@ The goal is **not mystical or divinatory**, but to leverage a rich symbolic syst
 
 The Brotherhood of Light deck is ideal because it is structured, symbolic, and philosophically documented — making it a perfect system for creating deep, analogy-driven prompts.
 
+This project is **multi-layered and complex**, demonstrating the ability to design prompts that challenge AI reasoning, integrate philosophical context, and produce narrative-driven outputs. The complexity is a feature, showcasing creativity, precision, and advanced prompt engineering skills — making this a standout portfolio piece.
+
 ## How to Use
 
 - Explore individual prompts in the `prompts/` folder.
@@ -24,3 +26,6 @@ The Brotherhood of Light deck is ideal because it is structured, symbolic, and p
 - Structured instruction-following
 - Contextual reasoning and pattern recognition
 - Story-driven output generation
+- Analogy and symbolic interpretation
+- Creative yet rigorous AI prompt design
+- Multi-layered reasoning using structured symbolic systems
