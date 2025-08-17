@@ -1,5 +1,7 @@
 # Symbolic Reasoning Prompts
 
+**A structured symbolic reasoning prompt using a historical tarot system. The AI interprets multiple layers of meaning, integrating symbols, positions, and narrative to produce a coherent, story-driven output.**
+
 **Note:** In short, the “mystical” and "symbolic" elements are just tools for complex reasoning and pattern recognition, not the point themselves — which makes this a serious, innovative AI prompt project.
 
 A collection of prompts using symbolic systems, like the Brotherhood of Light Tarot, to test AI's pattern recognition and reasoning. Focus is on analyzing symbols and underlying philosophy to generate meaningful answers to specific questions — not for divination purposes.
