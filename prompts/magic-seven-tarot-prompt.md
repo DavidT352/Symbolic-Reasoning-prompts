@@ -20,7 +20,7 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
 ---
 
 ## Question Example
-"I recently completed an AI prompt-writing interview. I passed the test, and now I need to build my profile. Provide insight on this situation and the likely outcome."
+"I’m currently employed but exploring new opportunities in prompt engineering. Could you analyze the situation and provide an interpretation along with the likely outcome?"
 
 ---
 
