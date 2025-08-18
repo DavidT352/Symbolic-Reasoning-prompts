@@ -46,6 +46,19 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
 
 ---
 
+## Minor Arcana Interpretation
+
+Each Minor Arcana card corresponds **numerically to the Major Arcanum of the same number**, but its energy is expressed through its suit’s element:
+
+- **Coins → Air** → ideas, work, money  
+- **Scepters → Fire** → career, ambition, action  
+- **Cups → Water** → emotions, relationships  
+- **Swords → Earth** → struggle, protection, decision-making  
+
+Interpret the card using the **number’s Major Arcana meaning filtered through the suit**, then apply **upright/reversed nuances**.
+
+---
+
 ## Major Arcana Reference
 
 | Arcanum | Name (Other) | Ruling | Key Words |
