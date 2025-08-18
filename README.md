@@ -6,6 +6,11 @@
 
 A collection of prompts using symbolic systems, like the Brotherhood of Light Tarot, to test AI's pattern recognition and reasoning. Focus is on analyzing symbols and underlying philosophy to generate meaningful answers to specific questions — not for divination purposes.
 
+## Table of Contents
+
+1. [Magic Seven Spread — Brotherhood of Light Tarot](prompts/magic-seven-tarot-prompt.md)
+
+
 ## Purpose
 
 This project demonstrates advanced prompt engineering by guiding AI to interpret complex symbolic systems. Each prompt blends analytical reasoning with storytelling, using symbols and underlying philosophies to generate structured, meaningful outputs.
