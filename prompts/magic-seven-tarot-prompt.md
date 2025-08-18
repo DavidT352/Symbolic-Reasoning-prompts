@@ -5,6 +5,18 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
 
 > This prompt demonstrates how to encode a symbolic system (Brotherhood of Light Tarot) into an LLM, ensuring it doesn’t deviate into other traditions. The engineering challenge was enforcing strict correspondences, court card naming, and spread structure.
 
+## Objective
+Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) using the Magic Seven spread. Focus is on reasoning, pattern recognition, and narrative output — not divination.  
+
+
+## System Rules (Do Not Deviate)
+- Use only the Brotherhood of Light Tarot system (Church of Light lessons CS06 & CS07).  
+- Do not use Golden Dawn, Rider–Waite, Thoth, or any other tarot system correspondences or card titles.  
+- Use official Brotherhood of Light titles: e.g., The Alchemist, The Two Paths, The Spiritualist, The Star, etc.
+
+---
+
+
 ---
 
 ## Question Example
