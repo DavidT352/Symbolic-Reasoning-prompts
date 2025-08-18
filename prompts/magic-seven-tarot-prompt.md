@@ -4,7 +4,8 @@
 Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) using the Magic Seven spread. Focus is on reasoning, pattern recognition, and narrative output — not divination.  
 
 > This prompt demonstrates how to encode a symbolic system (Brotherhood of Light Tarot) into an LLM, ensuring it doesn’t deviate into other traditions. The engineering challenge was enforcing strict correspondences, court card naming, and spread structure.
-
+---
+## Prompt:
 ## Question
 "I’m currently employed but exploring new opportunities in prompt engineering. Could you analyze the situation and provide an interpretation along with the likely outcome?"
 
