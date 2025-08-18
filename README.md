@@ -5,6 +5,10 @@ This is not mystical or divinatory — the symbolic system is simply a framework
 
 ---
 
+## Table of Contents
+
+1. [Magic Seven Tarot Prompt](prompts/magic-seven-tarot-prompt.md)
+
 ## Purpose
 
 This project demonstrates advanced prompt engineering by guiding AI to interpret a symbolic system with:
