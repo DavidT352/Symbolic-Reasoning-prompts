@@ -11,6 +11,8 @@ This is not mystical or divinatory — the symbolic system is simply a framework
 
 ## Purpose
 
+This project uses the Brotherhood of Light Tarot purely as a formal symbolic system, allowing AI to reason through numbers, elements, and archetypes. It is a framework for pattern recognition, analogy, and narrative construction — not fortune-telling.
+
 This project demonstrates advanced prompt engineering by guiding AI to interpret a symbolic system with:
 
 - **Strict structural rules** (spread positions, symbolic correspondences).  
