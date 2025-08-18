@@ -84,7 +84,7 @@ For educational and portfolio use only.
 ---
 
 ✨ **Why this works as a portfolio piece:**  
-It’s multi-layered, disciplined, and creative. It shows you can:
+It’s multi-layered, disciplined, and creative. It shows the ability to:
 
 - Build prompts that enforce strict symbolic frameworks.  
 - Generate reasoning + storytelling outputs.  
