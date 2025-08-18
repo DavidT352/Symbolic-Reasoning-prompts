@@ -1,49 +1,87 @@
 # Symbolic Reasoning Prompts
 
-**A structured symbolic reasoning prompt using a historical tarot system. The AI interprets multiple layers of meaning, integrating symbols, positions, and narrative to produce a coherent, story-driven output.**
+A portfolio project exploring **structured symbolic reasoning** using the *Brotherhood of Light Tarot*.  
+This is not mystical or divinatory — the symbolic system is simply a framework to **test AI’s ability in reasoning, analogy, and narrative coherence**.
 
-**Note:** In short, the “mystical” and "symbolic" elements are just tools for complex reasoning and pattern recognition, not the point themselves — which makes this a serious, innovative AI prompt project.
-
-A collection of prompts using symbolic systems, like the Brotherhood of Light Tarot, to test AI's pattern recognition and reasoning. Focus is on analyzing symbols and underlying philosophy to generate meaningful answers to specific questions — not for divination purposes.
-
-## Table of Contents
-
-1. [Magic Seven Spread — Brotherhood of Light Tarot](prompts/magic-seven-tarot-prompt.md)
-
+---
 
 ## Purpose
 
-This project demonstrates advanced prompt engineering by guiding AI to interpret complex symbolic systems. Each prompt blends analytical reasoning with storytelling, using symbols and underlying philosophies to generate structured, meaningful outputs.
+This project demonstrates advanced prompt engineering by guiding AI to interpret a symbolic system with:
 
-The goal is **not mystical or divinatory**, but to leverage a rich symbolic system to:
-- Test AI's pattern recognition
-- Explore multi-layered reasoning
-- Convert complex symbols and philosophy into coherent, human-relatable outputs
+- **Strict structural rules** (spread positions, symbolic correspondences).  
+- **Layered reasoning** (symbols, philosophy, narrative).  
+- **Story-driven outputs** that remain coherent and user-relevant.  
 
-The Brotherhood of Light deck is ideal because it is structured, symbolic, and philosophically documented — making it a perfect system for creating deep, analogy-driven prompts.
+The aim:
 
-This project is **multi-layered and complex**, demonstrating the ability to design prompts that challenge AI reasoning, integrate philosophical context, and produce narrative-driven outputs. The complexity is a feature, showcasing creativity, precision, and advanced prompt engineering skills — making this a standout portfolio piece.
+- Showcase **pattern recognition** and structured reasoning.  
+- Convert complex, layered material into **accessible outputs**.  
+- Demonstrate **creativity, discipline, and engineering precision**.  
 
-It is also **interactive and versatile**, allowing users to input their own questions:
-- Each prompt is **question-driven** — AI outputs change depending on the user’s input.  
-- It’s **playable and exploratory** — anyone can try their own questions and see the AI reason through symbols and philosophy.  
-- Demonstrates **dynamic reasoning skills** — AI adapts to context, showing how prompts can generate tailored, meaningful outputs.
+---
 
-## How to Use
+## Why the Brotherhood of Light Tarot?
 
-- Explore individual prompts in the `prompts/` folder.
-- Each prompt includes instructions, context, and professional commentary.
-- Example AI outputs (optional) can be found in `example-outputs/`.
+- Rich symbolic structure and philosophy, well-documented.  
+- Easy to constrain into rules — ideal for testing model discipline.  
+- Familiar yet distinct enough to avoid “default tarot” drift.  
+
+---
+
+## The Engineering Challenge
+
+Designing prompts that:
+
+- Force the model to **stick to this system** (no Rider–Waite or Golden Dawn leakage).  
+- Translate **symbol + philosophy + position** into layered meaning.  
+- Adapt dynamically to **any user question** without breaking narrative.  
+
+---
+
+## Features
+
+- **Question-driven** → outputs change depending on user input.  
+- **Exploratory** → users can try their own spreads and see symbolic reasoning in action.  
+- **Dynamic** → shows how prompts adapt contextually.  
+
+---
+
+## Example Snippet
+
+> **Position 3 — The Path Forward (The Alchemist / Taurus)**  
+> This symbol represents steady transformation. Like soil turning into fruit, your progress requires patience. Taurus adds the theme of persistence — growth is quiet but unstoppable. Together, they suggest your path is built through small, deliberate actions rather than sudden leaps.  
+
+---
 
 ## Skills Demonstrated
 
-- Structured instruction-following
-- Contextual reasoning and pattern recognition
-- Story-driven output generation
-- Analogy and symbolic interpretation
-- Creative yet rigorous AI prompt design
-- Multi-layered reasoning using structured symbolic systems
+- Structured instruction-following  
+- Contextual reasoning + pattern recognition  
+- Analogy and symbolic interpretation  
+- Multi-layered narrative generation  
+- Creative but disciplined AI prompt design  
 
-# Prompt Attribution
-Inspired by the Brotherhood of Light lessons, Church of Light (free online resources). For educational and portfolio use.
+---
 
+## How to Use
+
+1. Explore prompts in the `prompts/` folder.  
+2. Example AI outputs in `example-outputs/`.  
+3. Try your own questions with the provided prompt template.  
+
+---
+
+## Prompt Attribution
+
+Inspired by the *Brotherhood of Light* lessons, Church of Light (free online resources).  
+For educational and portfolio use only.  
+
+---
+
+✨ **Why this works as a portfolio piece:**  
+It’s multi-layered, disciplined, and creative. It shows you can:
+
+- Build prompts that enforce strict symbolic frameworks.  
+- Generate reasoning + storytelling outputs.  
+- Balance **creativity** with **precision engineering**.  
