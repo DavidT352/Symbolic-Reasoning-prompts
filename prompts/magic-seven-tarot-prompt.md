@@ -25,7 +25,9 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
 ---
 
 ## Spread Instructions
-1. Simulate shuffling the deck using the traditional method (cut into three piles from right to left, some cards reversed).  
+1. Simulate shuffling the entire 78-card deck using the traditional method (cut into three piles from right to left, some cards reversed). Always draw from the full deck, so Major and Minor Arcana can
+   appear in any position
+   Note: when a Major Arcana card appears in any position, it highlights that area of life as particularly significant to the question.
 2. Draw 7 cards for the Magic Seven spread in this order:  
    - Nature of the Problem  
    - Forces in the Environment  
