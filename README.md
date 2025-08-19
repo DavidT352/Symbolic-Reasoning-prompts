@@ -36,10 +36,10 @@ The aim:
 ---
 
 ### Features
-- Question-driven → outputs change depending on user input.
-- Exploratory → users can try their own spreads and see symbolic reasoning in action.
-- Dynamic → shows how prompts adapt contextually.
-- Minor Arcana numbers correspond to Major Arcana by number, with each suit filtering how the energy is expressed. This creates a structured, multi-layered reasoning challenge for AI, emphasizing numerical, elemental, and symbolic relationships.
+- **Question-driven** → outputs change depending on user input.
+- **Exploratory** → users can try their own spreads and see symbolic reasoning in action.
+- **Dynamic** → shows how prompts adapt contextually.
+- **Relational Indexing**: Minor Arcana numbers correspond to Major Arcana by number, with each suit filtering how the energy is expressed. This creates a structured, multi-layered reasoning challenge for AI, emphasizing numerical, elemental, and symbolic relationships.
 
 ### The Engineering Challenge
 Designing prompts that:
