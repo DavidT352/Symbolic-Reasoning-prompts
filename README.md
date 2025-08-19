@@ -5,7 +5,7 @@ This is not mystical or divinatory — the symbolic system is simply a framework
 
 ---
 
-## Table of Contents
+## Table of Contents (Prompt Examples)
 
 1. [Magic Seven Tarot Prompt](prompts/magic-seven-tarot-prompt.md)
 
