@@ -17,7 +17,8 @@ This project demonstrates advanced prompt engineering by guiding AI to interpret
 
 - **Strict structural rules** (spread positions, symbolic correspondences).  
 - **Layered reasoning** (symbols, philosophy, narrative).  
-- **Story-driven outputs** that remain coherent and user-relevant.  
+- **Story-driven outputs** that remain coherent and user-relevant.
+- **Relational index** teaching an LLM to align smaller elements (like numeric sequences) with larger conceptual structures.
 
 The aim:
 
