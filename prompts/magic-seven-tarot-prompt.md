@@ -11,7 +11,7 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
   **Emphasize AI reasoning over tarot**
   This project uses the Brotherhood of Light Tarot purely as a formal symbolic system, allowing AI to reason through numbers, elements, and archetypes. It is a framework for pattern recognition,     analogy, and narrative construction — not fortune-telling.
   
-  **Highlight Minor Arcana numerical correspondence**
+  **(Relational Indexing) Highlight Minor Arcana numerical correspondence**
   Minor Arcana numbers correspond to Major Arcana by number, filtered through suit elements. This creates a structured, multi-layered reasoning challenge for AI.
 
   **Showcase prompt precision**
