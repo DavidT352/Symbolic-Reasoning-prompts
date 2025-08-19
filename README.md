@@ -35,21 +35,19 @@ The aim:
 
 ---
 
-## The Engineering Challenge
+### Features
+- Question-driven → outputs change depending on user input.
+- Exploratory → users can try their own spreads and see symbolic reasoning in action.
+- Dynamic → shows how prompts adapt contextually.
+- Minor Arcana numbers correspond to Major Arcana by number, with each suit filtering how the energy is expressed. This creates a structured, multi-layered reasoning challenge for AI, emphasizing numerical, elemental, and symbolic relationships.
 
+### The Engineering Challenge
 Designing prompts that:
+- Force the model to stick to the Brotherhood of Light system (no Rider–Waite or Golden Dawn leakage).
+- Translate symbol + philosophy + position into layered meaning.
+- Enforce Minor Arcana numerical correspondence filtered through suit elements.
+- Adapt dynamically to any user question without breaking narrative or symbolic coherence.
 
-- Force the model to **stick to this system** (no Rider–Waite or Golden Dawn leakage).  
-- Translate **symbol + philosophy + position** into layered meaning.  
-- Adapt dynamically to **any user question** without breaking narrative.  
-
----
-
-## Features
-
-- **Question-driven** → outputs change depending on user input.  
-- **Exploratory** → users can try their own spreads and see symbolic reasoning in action.  
-- **Dynamic** → shows how prompts adapt contextually.  
 
 ---
 
