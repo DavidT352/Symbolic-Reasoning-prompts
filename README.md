@@ -9,7 +9,7 @@ This is **not mystical or divinatory** — the symbolic system is simply a frame
 ---
 
 ## 📑 Table of Contents (Prompt Examples)  
-- Magic Seven Tarot Prompt  
+- [Magic Seven Tarot Prompt](prompts/magic-seven-tarot-prompt.md)  
 
 ---
 
