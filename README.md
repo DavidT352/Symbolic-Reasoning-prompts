@@ -52,6 +52,18 @@ Designing prompts that:
 
 ---
 
+### ✅ Why This Prompt Works (Technically)
+
+In prompt engineering terms, this is a **domain-locked procedural prompt**, designed with:
+
+- **Memory Suppression** → prevents defaulting to other tarot systems  
+- **Interpretation Confinement** → enforces Brotherhood of Light logic only  
+- **Role Protocol** → defines spread rules + interpretive tone  
+- **Validation Triggers** → makes deviations easy to catch (e.g., wrong card names or symbolism)
+
+---
+
+
 ## Example Snippet
 
 > **Position 3 — The Path Forward (The Alchemist / Taurus)**  
