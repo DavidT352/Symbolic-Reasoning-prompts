@@ -22,6 +22,7 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
 ## Prompt:
 ## Question
 "I’m currently employed but exploring new opportunities in prompt engineering. Could you analyze the situation and provide an interpretation along with the likely outcome?"
+**Assume the querent is emotionally involved and seeking clarity, not control.**
 
 ## Below are all the instructions you must follow:
 
