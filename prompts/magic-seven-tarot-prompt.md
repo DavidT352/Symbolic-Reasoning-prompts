@@ -37,8 +37,9 @@ Guide AI to interpret a structured symbolic system (Brotherhood of Light Tarot) 
    - Its **numerical correspondence** to the Major Arcana of the same number.
    - The **element of its suit** (Coins = Air, Scepters = Fire, Cups = Water, Swords = Earth).
    - Upright/reversed nuances only as described in CS06 & CS07.
+   - Interpret **Minor Arcana** cards strictly by their number **1–10**, referencing the Major Arcana of the **same number**. Court Cards (**Youth, Queen, King**) do not correspond numerically to Major Arcana and should be interpreted only by their Brotherhood of Light zodiac/element correspondences and personality traits.
    - **Do not** add extra narrative from other tarot systems.
- - For **Court Cards**, use only the Brotherhood of Light zodiac/element correspondences and personality traits.
+ - For **Court Cards**, use **only** Brotherhood of Light zodiac and elemental correspondences: Youth (mutable), Queen (reactive/nurturing), King (assertive/leader). **Do not link court cards to Major      Arcana     numerically**.
 
 
 ---
