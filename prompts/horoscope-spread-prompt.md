@@ -216,42 +216,78 @@ This prompt demonstrates:
 
 ---
 
-## Example Output (Simulated)
-> **Note:** Replace with your actual run for the portfolio.
+# Horoscope Spread – Example Reading
 
-**Trinity of Life (1, 5, 9)**  
-- **House 1 — The Magus (upright, Mercury):** Personal will and skill are foregrounded; initiative is decisive.  
-- **House 5 — Five of Scepters (rev):** (Maps to **V The Hierophant**; Fire filter) Creative drive meets process constraints; refine structure before launch.  
-- **House 9 — The Star (upright, Gemini):** Emerging clarity in long-range vision; truth-seeking aligns beliefs with practice.  
-**Synthesis:** Identity powered by skill, creativity disciplined by method, worldview clarified by inquiry.
-
-**Trinity of Wealth (2, 6, 10)**  
-- **House 2 — Two of Coins (upright):** (Maps to **II Veiled Isis**; Air filter) Analytical budgeting; optimize inputs and workflows.  
-- **House 6 — The Balance (upright, Capricorn):** Fair systems and routines stabilize health and output.  
-- **House 10 — The Lightening (rev, Mars):** Structural change in public role unfolds slowly; controlled renovation over rupture.  
-**Synthesis:** Careful analysis + just processes buffer a managed career transition.
-
-**Trinity of Associations (3, 7, 11)**  
-- **House 3 — Youth of Coins (upright, Aquarius/Air):** Learning mindset; information-rich exchanges.  
-- **House 7 — The Sun (upright, Leo):** Partnerships are warm, visible, mutually empowering.  
-- **House 11 — Ten of Cups (upright):** (Maps to **X The Wheel**; Water filter) Community support cycles in; emotional momentum grows.  
-**Synthesis:** Bright alliances + supportive networks amplify communication efforts.
-
-**Trinity of Psychism (4, 8, 12)**  
-- **House 4 — The Sage (upright, Aquarius):** Home base shaped by prudence and wisdom.  
-- **House 8 — Eight of Swords (rev):** (Maps to **VIII The Balance**; Earth filter) Gradual release from rigid constraints; grounded re-equilibration.  
-- **House 12 — The Alchemist (upright, Taurus):** Quiet regeneration; inner healing strengthens outer resolve.  
-**Synthesis:** Deep stabilization enables sustainable transformation.
-
-**Conclusion:** A quarter marked by **skilled initiative**, **process discipline**, and **supportive alliances**, while **career structures** are carefully refactored rather than abruptly replaced.
+**Question:**  
+*“What surrounds my life during the next 3 months?”*
 
 ---
 
-## Optional Visual Mapping (Anchor Orientation)
-- **East / Ascendant** → **House 1** (left)  
-- **West / Descendant** → **House 7** (right)  
-- **MC / Midheaven** → **House 10** (top)  
-- **IC / Nadir** → **House 4** (bottom)  
-Proceed **counterclockwise** around the wheel: 1 → 2 → 3 → 4 → … → 12 → back to 1.
+## Recorded Draw
 
-*(Use the Recording table above to keep the diagram and text perfectly in sync.)*
+| House | Domain (short)    | Card Drawn (Title)   | Upright/Reversed | Notes (Maj/Minor mapping, suit filter)                            |
+| ----- | ----------------- | -------------------- | ---------------- | ----------------------------------------------------------------- |
+| 1     | Identity          | The Magus            | Upright          | Major – Will, dexterity, initiative                               |
+| 10    | Career/Public     | 7 of Scepters        | Upright          | Links to VII The Conqueror → fire filter: ambition, drive         |
+| 7     | Partnerships      | The Two Paths        | Reversed         | Major – choice, dilemma, delayed clarity                          |
+| 4     | Home/Foundation   | 4 of Cups            | Upright          | Links to IV The Sovereign → water filter: emotional grounding     |
+| 12    | Inner/Unseen      | The Moon             | Upright          | Major – secrets, hidden emotions                                  |
+| 9     | Beliefs/Long View | Youth of Coins       | Reversed         | Aquarius / Air → adaptable, ideas slowed                          |
+| 6     | Health/Systems    | The Balance          | Upright          | Major – justice, equilibrium                                      |
+| 3     | Learning/Comms    | 2 of Swords          | Upright          | Links to II Veiled Isis → earth filter: analysis through struggle |
+| 11    | Community/Allies  | Queen of Cups        | Upright          | Scorpio / Water → intuitive, supportive ally                      |
+| 8     | Shared Resources  | The Reaper           | Upright          | Major – transformation, letting go                                |
+| 5     | Creativity/Heart  | The Star             | Upright          | Major – hope, faith, creative truth                               |
+| 2     | Resources         | Horseman of Scepters | Reversed         | Fire → half-formed ideas, career rethink                          |
+
+---
+
+## Trinity Interpretations
+
+### Trinity of Life → Houses 1, 5, 9
+- **House 1 (Identity): The Magus Upright** — Strong personal will and capacity for skillful action. A season of initiation.  
+- **House 5 (Creativity/Heart): The Star Upright** — Creativity and joy are supported by optimism, faith, and truth-seeking.  
+- **House 9 (Beliefs/Long View): Youth of Coins Reversed** — Long-term vision slowed; learning or intellectual direction feels delayed.  
+
+**Synthesis:** Personal agency and inspired creativity are strong, but clarity in worldview may lag. Balance is needed between inspiration and structured thought.
+
+---
+
+### Trinity of Wealth → Houses 2, 6, 10
+- **House 2 (Resources): Horseman of Scepters Reversed** — Career or financial impulses may be premature; caution advised.  
+- **House 6 (Health/Systems): The Balance Upright** — Stability through order and routine; physical and mental balance is supported.  
+- **House 10 (Career/Public): 7 of Scepters Upright** — Competitive drive and ambition bring advancement through effort.  
+
+**Synthesis:** Stability in routines supports ambition, but impulsive resource use could undermine progress. Measured steps are key.
+
+---
+
+### Trinity of Associations → Houses 3, 7, 11
+- **House 3 (Learning/Comms): 2 of Swords Upright** — Careful decisions in communication; clarity emerges through analysis.  
+- **House 7 (Partnerships): The Two Paths Reversed** — Partnerships face dilemmas or stalled decisions; clarity delayed.  
+- **House 11 (Community/Allies): Queen of Cups Upright** — Supportive allies offer empathy, trust, and intuitive guidance.  
+
+**Synthesis:** Relationships are in flux, but thoughtful communication and compassionate allies help sustain harmony.
+
+---
+
+### Trinity of Psychism → Houses 4, 8, 12
+- **House 4 (Home/Foundation): 4 of Cups Upright** — Stability at home, but risk of complacency or emotional stagnation.  
+- **House 8 (Shared Resources): The Reaper Upright** — Endings and transformation in shared finances or bonds.  
+- **House 12 (Inner/Unseen): The Moon Upright** — Deep inner reflection and confronting illusions; unseen influences at play.  
+
+**Synthesis:** Transformation and shadow work shape this period, especially in shared bonds and home foundations. Acceptance of endings brings renewal.
+
+---
+
+## Summary
+
+The next three months emphasize **personal empowerment (Magus), creative inspiration (Star), and deep transformation (Reaper + Moon)**. Ambition in career is strong, but requires balance and patience to avoid wasted effort (Horseman of Scepters reversed).  
+
+Partnerships may feel uncertain (Two Paths reversed), but allies (Queen of Cups) provide stability. Transformation in shared matters (Reaper) and inner reflection (Moon) mark this as a season of renewal and letting go.  
+
+**Actionable Approach:**  
+- Anchor ambition with structure and balance (The Balance).  
+- Trust inspiration while clarifying intellectual direction.  
+- Accept transformations in bonds; release creates space for growth.  
+- Avoid haste in career or resource decisions; steady progress wins.  
