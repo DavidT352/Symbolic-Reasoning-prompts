@@ -154,3 +154,55 @@ This prompt demonstrates:
 - **Pattern recognition:** AI identifies connections across symbols, positions, trinity groupings, and narrative.  
 - **Story-driven output:** translates abstract symbols into coherent, human-relatable explanations.  
 - **Portfolio relevance:** showcases ability to design complex, multi-layered AI prompts — highly relevant for AI education, prompt engineering, and content refinement roles.
+
+---
+
+---
+
+## Example Output
+
+**Querent Question:** "What surrounds my life during the next 3 months?"
+
+**Horoscope Spread Interpretation:**
+
+- **House 1 (Angular / Trinity of Life): The Magus (Upright)**  
+Represents personal initiative and skill. The querent is entering a period where their own abilities and decisiveness will be tested. Astrological hint: Mercury emphasizes thought clarity and action.
+
+- **House 2 (Succedent / Trinity of Wealth): The Two Paths (Reversed)**  
+Slower energy regarding finances or material resources. Choices may feel blocked or delayed; the querent should carefully evaluate opportunities without rushing.
+
+- **House 3 (Cadent / Trinity of Associations): The Alchemist (Upright)**  
+Highlights communication and relationships with peers or siblings. Practical transformation is possible; focus on patience and steady effort.
+
+- **House 4 (Angular / Trinity of Psychism): The Moon (Upright)**  
+Emotional and spiritual introspection. Secrets or hidden factors may surface; trust intuition and observe internal patterns.
+
+- **House 5 (Trinity of Life): Ace of Cups (Upright)**  
+Represents new emotional beginnings, creativity, or joy in personal projects. Connects with the overall life trinity, enhancing well-being.
+
+- **House 6 (Trinity of Wealth): Scepter 5 (Reversed)**  
+Challenges at work or in career planning. Energy is delayed; careful planning is required. Avoid impulsive actions.
+
+- **House 7 (Trinity of Associations): The Conqueror (Upright)**  
+Partnerships and collaborations will be decisive. Positive outcomes are likely if assertive and fair.
+
+- **House 8 (Trinity of Psychism): Coins 3 (Upright)**  
+Material or spiritual resources may grow through careful collaboration and planning. Stability and skillful action are emphasized.
+
+- **House 9 (Trinity of Life): The Sage (Reversed)**  
+Learning, guidance, or higher studies may encounter delays. Reflect before committing to new intellectual or spiritual pursuits.
+
+- **House 10 (Trinity of Wealth): The Wheel (Upright)**  
+Career and financial cycles are in motion. Opportunity for advancement or change; embrace adaptability.
+
+- **House 11 (Trinity of Associations): Cups 7 (Upright)**  
+Group interactions may offer choices or emotional opportunities. Beware of illusions, but explore connections thoughtfully.
+
+- **House 12 (Trinity of Psychism): Swords 2 (Reversed)**  
+Psychic or internal struggles may surface; indecision or hesitation may slow progress. Seek clarity before acting.
+
+**Summary / Guidance:**  
+Over the next three months, the querent will navigate a combination of personal initiative, delayed choices in finances, and evolving relationships. The AI emphasizes balancing internal reflection (Psychism Trinity) with action-oriented life and wealth decisions. Patience and careful observation will yield meaningful outcomes. 
+
+**Note:** All interpretations strictly follow Brotherhood of Light CS06 & CS07 teachings. Reversals indicate delayed or slower energy, not a change in fundamental meaning.
+
